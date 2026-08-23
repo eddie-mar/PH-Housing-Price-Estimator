@@ -1,0 +1,15 @@
+ipykernel
+mkdocs
+pytest
+python-dotenv
+ruff
+numpy
+pandas
+matplotlib
+category-encoders
+joblib
+seaborn
+scikit-learn
+xgboost
+streamlit
+
