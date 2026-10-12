@@ -193,3 +193,8 @@ cython_debug/
 # Developer
 notes.txt
 data/verification_only/
+models/from_notebook/
+tests/
+references/
+reports/
+Makefile
